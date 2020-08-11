@@ -1,2 +1,3 @@
 # E-Dentist-Project
-Console app that helps managing patients for med students 
+Performance monitoring and management system in dental training institutions.
+The system allows instructors and students to conveniently and effectively follow the requirements for completing the degree.
